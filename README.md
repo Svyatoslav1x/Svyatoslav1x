@@ -1,11 +1,46 @@
 <h1 align="center">Hi 👋, I'm Svyatoslav1x</h1>
 
+### ⚒️ Languages and Tools
+<div>
+  <a href="https://isocpp.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>  
+</div>
+<div>
+  <a href="https://code.visualstudio.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.android.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+****
+### 🔥 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Svyatoslav1x&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svyatoslav1x&show_icons=true&locale=en&layout=compact" alt="svyatoslav1x" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Svyatoslav1x&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Svyatoslav1x&theme=dark&)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svyatoslav1x&show_icons=true&locale=en" alt="svyatoslav1x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svyatoslav1x&" alt="svyatoslav1x" /></p>
+****
