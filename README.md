@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Svyatoslav1x</h1>
 
+****
 
+### 🧑‍🎓 About Me:
+Server and node lover.
+- 📚 **Python/C++ OOP**
+- 🧠 **Web3/Python automation**
+- 👁️ **GameDev**
+- 🔭 I’m currently working on **soon..**
+- 🌱 I’m currently learning **django, SQL and DevOps**
+- 👯 I am a member of the [**Epic Games**](https://github.com/EpicGames) organization
+
+****
 
 ### ⚒️ Languages and Tools
 <div>
@@ -42,6 +53,7 @@
 </div>
 
 ****
+
 ### 🔥 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Svyatoslav1x&theme=dark)
 
