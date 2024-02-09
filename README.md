@@ -8,15 +8,9 @@
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>
   <a href="https://numpy.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://opencv.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>  
 </div>
 <div>
   <a href="https://code.visualstudio.com">
@@ -30,9 +24,6 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.kaggle.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
 </div>
 
