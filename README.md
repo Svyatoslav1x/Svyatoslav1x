@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Svyatoslav1x</h1>
 
+
+
 ### ⚒️ Languages and Tools
 <div>
+  <a href="https://www.notion.so/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://powershell.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://isocpp.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
