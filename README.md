@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Svyatoslav1x</h1>
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/564x/60/cd/ee/60cdee2a588419923ac35671e64eec00.jpg" width="200"/>
+</div>
+
+<h1 align="center">Svyatoslav1x</h1>
 
 ****
 
 ### 🧑‍🎓 About Me:
-Server and node lover.
+Server and node lover. Also a Hideo Kodzima fan.
 - 📚 **Python/C++ OOP**
 - 🧠 **Web3/Python automation**
 - 👁️ **GameDev**
