@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/564x/60/cd/ee/60cdee2a588419923ac35671e64eec00.jpg" width="200"/>
+  <h3>
+    Svyatoslav1x
+  </h3>
 </div>
-
-<h1 align="center">Svyatoslav1x</h1>
 
 ****
 
