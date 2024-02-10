@@ -10,7 +10,7 @@
 ### 🧑‍🎓 About Me:
 Server and node lover. Also a Hideo Kodzima fan.
 - 📚 **Python/C++ OOP**
-- 🧠 **Web3/Python automation**
+- 🧠 **Web3/Crypto automation**
 - 👁️ **GameDev**
 - 🔭 I’m currently working on **soon..**
 - 🌱 I’m currently learning **django, SQL and DevOps**
