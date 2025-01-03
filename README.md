@@ -1,7 +1,7 @@
 ****
 
 ### 🧑‍🎓 About Me:
-Enjoy working with servers. I'm a big Hideo Kodzima fan.
+I like to work with servers. I'm also a big fan of Hideo Kodzima.
 - 🧠 **Interested in any type of software automation**
 - 🔭 I’m currently working on **soon..**
 - 🌱 I’m currently learning **Golang, DevOps and DSA**
